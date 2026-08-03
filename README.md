@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there! 👋 I'm Rida
 
-<!--
-**ritzyseems/ritzyseems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Postgraduate
 
-Here are some ideas to get you started:
+💻 Aspiring Java Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building scalable web applications and continuously improving my backend development skills.
+
+## 🚀 Tech Stack
+
+- Java
+- React
+- JavaScript
+- SQL
+- MySQL
+- Spring Boot (Learning)
+- HTML
+- CSS
+- Git & GitHub
+- AWS Cloud Foundations
+- Power BI
+
+## 📌 Featured Projects
+
+### 📷 CaptionCraft
+An AI-assisted social media caption generator built using React and Supabase.
+
+### 📊 Developer Productivity Analysis
+Interactive Power BI dashboard analyzing Stack Overflow Developer Survey data.
+
+## 🌱 Currently Learning
+
+- Spring Boot
+- REST APIs
+- Docker
+- Cloud Technologies
+
+## 📫 Connect with me
+
+LinkedIn:
+https://www.linkedin.com/in/ridaseemeen/
