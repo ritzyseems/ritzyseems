@@ -2,7 +2,6 @@
 
 🎓 Computer Science Postgraduate
 
-💻 Aspiring Java Full Stack Developer
 
 I'm passionate about building scalable web applications and continuously improving my backend development skills.
 
